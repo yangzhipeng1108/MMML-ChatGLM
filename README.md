@@ -2,7 +2,7 @@
 
 # finetune
 
-#sh finetune/finetune_visualglm.sh
+sh finetune/finetune_visualglm.sh
 
 
 # 网页Demo
