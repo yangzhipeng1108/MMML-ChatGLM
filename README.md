@@ -4,9 +4,7 @@
 
 sh finetune/finetune_visualglm.sh
 
-qlora finetune
-
-sh finetune/finetune_visualglm_qlora.sh
+qlora finetune： sh finetune/finetune_visualglm_qlora.sh
 
 
 # 网页Demo
